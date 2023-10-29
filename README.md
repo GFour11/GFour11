@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulchenko Egor</h1>
 <h3 align="center"> Python Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfour11" alt="gfour11" /></a> </p>
+
 
 - 📫 How to reach me **ulchegor1@gmail.com**
 
